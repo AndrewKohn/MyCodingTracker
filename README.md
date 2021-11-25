@@ -17,4 +17,6 @@ The main purpose of this program was to see what my coding habit looks like.  Th
   4. Start learning JavaFX and make a better looking GUI.
   5. Create a secondary view that shows a calendar and tallies up the total daily amounts.
   6. Create drop-down menu for programming languages & separate JTextField for project being worked on.
+
+
       example output: [Java] MyCodingTracker: Brief Note Summary.
