@@ -150,6 +150,8 @@ public class TimeTracker
 		if(file.exists())
 		{
 			System.out.println("Coding Timer.txt EXISTS in the user's document folder");
+			System.out.println(desktopPath + "Coding Timer.txt is present");
+
 		}else{
 			System.out.println("Coding Timer.txt DOES NOT exist in the user's document folder");
 			System.out.println("Creating file to: " + desktopPath + "Coding Timer.txt");
