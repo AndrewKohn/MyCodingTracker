@@ -5,6 +5,7 @@ Simple timer to count the amount of time spent actively coding.  This timer shou
 
 ### Coding Timer.txt
 The Coding Timer.txt file can be located in the user's documents folder.  If the file is not present, it will be created upon starting the application.
+
 example directory: C:\Users\user\Documents\Coding Timer.txt
 
 ## Purpose
