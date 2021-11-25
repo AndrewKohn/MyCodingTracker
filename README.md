@@ -1,7 +1,7 @@
 # MyCodingTracker
 
 ## About This Application
-Simple timer to count the amount of time spent actively coding.  This timer should be spent on actual work and not when browsing videos, podcasts, books, & etc even if they're related.
+Simple timer to count the amount of time spent actively coding.  This timer should not be spent on solely browsing videos, podcasts, books, & etc even if they're related.
 
 ### Coding Timer.txt
 The Coding Timer.txt file can be located in the user's documents folder.  If the file is not present, it will be created upon starting the application.
