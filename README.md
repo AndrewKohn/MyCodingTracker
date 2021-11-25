@@ -19,4 +19,4 @@ The main purpose of this program was to see what my coding habit looks like.  Th
   6. Create drop-down menu for programming languages & separate JTextField for project being worked on.
 
 
-      example output: [Java] MyCodingTracker: Brief Note Summary.
+      example output: [Java] MyProject: Brief Note Summary.
